@@ -13,7 +13,7 @@ form Get Pitch listing from a file
   comment Where should the script write a result file
   text directory /home/agricolamz/work/materials/2018_Abaza_expedition/sound/final/
   comment How should the script name a result file
-  text resultfile pitch-formnat-duration-log.csv
+  text resultfile pitch-formnat-duration-log.txt
   comment Time step
   integer step 0.01
   comment Pitch floor (Hz)
